@@ -1,0 +1,10 @@
+langchain_openai 
+langchain_core
+python-dotenv
+streamlit==1.30.0
+langchain_community
+langserve
+groq
+langchain-groq
+bs4
+faiss-cpu
